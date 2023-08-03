@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bodnariuc-egor
-- 👀 I’m a frontend developer from Moldova
+- 👀 I’m a software developer from Moldova
 - 📫 How to reach me: bodnariuc.egor@outlook.com
 
 <!---
